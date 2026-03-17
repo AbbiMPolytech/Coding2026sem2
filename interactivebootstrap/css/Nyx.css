@@ -1,0 +1,52 @@
+body {
+  background-color: #ffffff;
+  color: #000000;
+}
+.nav-link,
+a {
+  color: #000000;
+}
+
+footer {
+  background-color: #270c40;
+}
+
+.bg-darkpurple {
+  background-color: #270c40;
+}
+
+.bg-lightpurple {
+  background-color: #a999b8;
+}
+.bg-Lpurple {
+  background-color: #a999b88c;
+}
+header video {
+  width: 100%;
+  z-index: -1;
+}
+
+header {
+  max-height: 80vh;
+}
+
+h3 {
+  font-family: "BBH Bartle";
+  font-size: 22px;
+}
+
+h1 {
+  font-family: "BBH Bartle";
+  font-size: 35px;
+}
+
+body {
+  font-family: "Instrument Serif";
+  font-size: 20px;
+}
+
+.st1 {
+  fill: none;
+  stroke: #b99925;
+  stroke-width: 1.5px;
+}
